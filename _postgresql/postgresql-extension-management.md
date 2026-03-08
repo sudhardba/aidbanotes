@@ -1,5 +1,7 @@
 ---
 title: PostgreSQL Extension Management
+layout: default
+permalink: /postgresql/postgresql-extension-management/
 ---
 
 # PostgreSQL Extension Management

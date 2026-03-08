@@ -1,5 +1,7 @@
 ---
 title: MongoDB Sharding Architecture
+layout: default
+permalink: /mongodb/mongodb-sharding-architecture/
 ---
 
 # MongoDB Sharding Architecture

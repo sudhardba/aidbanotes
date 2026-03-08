@@ -1,3 +1,17 @@
+---
+title: MongoDB Backup Compression Strategy
+layout: default
+permalink: /mongodb/mongodb-backup-compression-strategy/
+---
+
 # MongoDB Backup Compression Strategy
 
 Content coming soon.
+
+## Overview
+
+## Commands
+
+## Troubleshooting
+
+## Notes

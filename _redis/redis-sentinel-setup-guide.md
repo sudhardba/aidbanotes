@@ -1,5 +1,7 @@
 ---
 title: Redis Sentinel Setup Guide
+layout: default
+permalink: /redis/redis-sentinel-setup-guide/
 ---
 
 # Redis Sentinel Setup Guide

@@ -1,5 +1,7 @@
 ---
 title: Cassandra Read Repair Process
+layout: default
+permalink: /cassandra/cassandra-read-repair-process/
 ---
 
 # Cassandra Read Repair Process

@@ -1,5 +1,7 @@
 ---
 title: Redis Lua Scripting Basics
+layout: default
+permalink: /redis/redis-lua-scripting-basics/
 ---
 
 # Redis Lua Scripting Basics

@@ -1,5 +1,7 @@
 ---
 title: MongoDB Oplog Monitoring
+layout: default
+permalink: /mongodb/mongodb-oplog-monitoring/
 ---
 
 # MongoDB Oplog Monitoring

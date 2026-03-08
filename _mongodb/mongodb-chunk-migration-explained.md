@@ -1,5 +1,7 @@
 ---
 title: MongoDB Chunk Migration Explained
+layout: default
+permalink: /mongodb/mongodb-chunk-migration-explained/
 ---
 
 # MongoDB Chunk Migration Explained

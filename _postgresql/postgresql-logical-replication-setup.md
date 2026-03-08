@@ -1,5 +1,7 @@
 ---
 title: PostgreSQL Logical Replication Setup
+layout: default
+permalink: /postgresql/postgresql-logical-replication-setup/
 ---
 
 # PostgreSQL Logical Replication Setup

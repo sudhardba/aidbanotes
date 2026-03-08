@@ -1,5 +1,7 @@
 ---
 title: Cassandra SSTable Structure
+layout: default
+permalink: /cassandra/cassandra-sstable-structure/
 ---
 
 # Cassandra SSTable Structure

@@ -4,16 +4,12 @@ import re
 INPUT_FILE = "titles.txt"
 
 tech_map = {
-    "Oracle": "_oracle",
-    "PostgreSQL": "_postgresql",
-    "Redis": "_redis",
-    "MongoDB": "_mongodb",
-    "Cassandra": "_cassandra"
+    "oracle": "_oracle",
+    "postgresql": "_postgresql",
+    "redis": "_redis",
+    "mongodb": "_mongodb",
+    "cassandra": "_cassandra"
 }
-
-# create only first 10 per tech
-limit_per_tech = 10
-count = {k: 0 for k in tech_map}
 
 def slugify(text):
     text = text.lower()
@@ -25,25 +21,30 @@ with open(INPUT_FILE) as f:
     titles = f.readlines()
 
 for title in titles:
-    title = title.strip()
 
+    title = title.strip()
     if not title:
         continue
 
+    slug = slugify(title)
+
+    folder = "_others"
+
     for tech in tech_map:
-        if tech.lower() in title.lower():
-
-            if count[tech] >= limit_per_tech:
-                break
-
+        if tech in title.lower():
             folder = tech_map[tech]
-            os.makedirs(folder, exist_ok=True)
+            break
 
-            slug = slugify(title)
-            filename = f"{folder}/{slug}.md"
+    os.makedirs(folder, exist_ok=True)
 
-            content = f"""---
+    filename = f"{folder}/{slug}.md"
+
+    permalink_folder = folder.replace("_","")
+
+    content = f"""---
 title: {title}
+layout: default
+permalink: /{permalink_folder}/{slug}/
 ---
 
 # {title}
@@ -59,12 +60,9 @@ Content coming soon.
 ## Notes
 """
 
-            with open(filename, "w") as f:
-                f.write(content)
+    with open(filename, "w") as f:
+        f.write(content)
 
-            print("Created:", filename)
-
-            count[tech] += 1
-            break
+    print("Created:", filename)
 
 print("All posts generated successfully.")

@@ -1,5 +1,7 @@
 ---
 title: PostgreSQL Table Partitioning Guide
+layout: default
+permalink: /postgresql/postgresql-table-partitioning-guide/
 ---
 
 # PostgreSQL Table Partitioning Guide

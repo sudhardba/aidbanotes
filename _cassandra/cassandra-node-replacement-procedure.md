@@ -1,5 +1,7 @@
 ---
 title: Cassandra Node Replacement Procedure
+layout: default
+permalink: /cassandra/cassandra-node-replacement-procedure/
 ---
 
 # Cassandra Node Replacement Procedure

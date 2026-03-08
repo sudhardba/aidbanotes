@@ -1,3 +1,17 @@
+---
+title: MongoDB Backup using mongodump
+layout: default
+permalink: /mongodb/mongodb-backup-using-mongodump/
+---
+
 # MongoDB Backup using mongodump
 
 Content coming soon.
+
+## Overview
+
+## Commands
+
+## Troubleshooting
+
+## Notes

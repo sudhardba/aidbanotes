@@ -1,5 +1,7 @@
 ---
 title: Cassandra Cluster Capacity Planning
+layout: default
+permalink: /cassandra/cassandra-cluster-capacity-planning/
 ---
 
 # Cassandra Cluster Capacity Planning

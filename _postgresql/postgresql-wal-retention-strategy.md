@@ -1,5 +1,7 @@
 ---
 title: PostgreSQL WAL Retention Strategy
+layout: default
+permalink: /postgresql/postgresql-wal-retention-strategy/
 ---
 
 # PostgreSQL WAL Retention Strategy
