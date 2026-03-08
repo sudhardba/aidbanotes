@@ -1,6 +1,7 @@
 title: AIDBA Notes
-description: Database Administration and Monitoring Knowledge Base
-theme: minima
+description: Database Administration Knowledge Base
+
+remote_theme: just-the-docs/just-the-docs
 
 collections:
   oracle:
