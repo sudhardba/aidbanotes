@@ -1,17 +1,19 @@
 import os
 import re
 
-# input file with titles
 INPUT_FILE = "titles.txt"
 
-# mapping folders
-folders = {
-    "Oracle": "oracle",
-    "PostgreSQL": "postgresql",
-    "Redis": "redis",
-    "MongoDB": "mongodb",
-    "Cassandra": "cassandra"
+tech_map = {
+    "Oracle": "_oracle",
+    "PostgreSQL": "_postgresql",
+    "Redis": "_redis",
+    "MongoDB": "_mongodb",
+    "Cassandra": "_cassandra"
 }
+
+# create only first 10 per tech
+limit_per_tech = 10
+count = {k: 0 for k in tech_map}
 
 def slugify(text):
     text = text.lower()
@@ -20,26 +22,49 @@ def slugify(text):
     return text
 
 with open(INPUT_FILE) as f:
-    lines = f.readlines()
+    titles = f.readlines()
 
-for line in lines:
-    line = line.strip()
-    if not line:
+for title in titles:
+    title = title.strip()
+
+    if not title:
         continue
 
-    for tech in folders:
-        if tech.lower() in line.lower():
-            folder = folders[tech]
+    for tech in tech_map:
+        if tech.lower() in title.lower():
+
+            if count[tech] >= limit_per_tech:
+                break
+
+            folder = tech_map[tech]
+            os.makedirs(folder, exist_ok=True)
+
+            slug = slugify(title)
+            filename = f"{folder}/{slug}.md"
+
+            content = f"""---
+title: {title}
+---
+
+# {title}
+
+Content coming soon.
+
+## Overview
+
+## Commands
+
+## Troubleshooting
+
+## Notes
+"""
+
+            with open(filename, "w") as f:
+                f.write(content)
+
+            print("Created:", filename)
+
+            count[tech] += 1
             break
-    else:
-        continue
 
-    filename = slugify(line) + ".md"
-    path = os.path.join(folder, filename)
-
-    os.makedirs(folder, exist_ok=True)
-
-    with open(path, "w") as f:
-        f.write(f"# {line}\n\nContent coming soon.\n")
-
-print("Posts generated successfully")
+print("All posts generated successfully.")
