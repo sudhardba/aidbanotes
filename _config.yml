@@ -1,0 +1,16 @@
+title: AIDBA Notes
+description: Database Administration Knowledge Base
+
+remote_theme: just-the-docs/just-the-docs
+
+collections:
+  oracle:
+    output: true
+  postgresql:
+    output: true
+  redis:
+    output: true
+  mongodb:
+    output: true
+  cassandra:
+    output: true
