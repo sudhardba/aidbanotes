@@ -1,7 +1,20 @@
 import os
 
-BASE_DIR = "articles"
-os.makedirs(BASE_DIR, exist_ok=True)
+BASE_DIR = "docs"
+
+folders = {
+    "oracle": "oracle",
+    "postgresql": "postgresql",
+    "redis": "redis",
+    "mongodb": "mongodb",
+    "cassandra": "cassandra",
+    "database": "database"
+}
+
+# create main folders
+for f in folders.values():
+    os.makedirs(os.path.join(BASE_DIR, f), exist_ok=True)
+
 
 def detect_folder(title):
 
@@ -9,23 +22,27 @@ def detect_folder(title):
 
     if "oracle" in t:
         return "oracle"
-    elif "postgres" in t:
+
+    if "postgres" in t:
         return "postgresql"
-    elif "redis" in t:
+
+    if "redis" in t:
         return "redis"
-    elif "mongodb" in t:
+
+    if "mongodb" in t:
         return "mongodb"
-    elif "cassandra" in t:
+
+    if "cassandra" in t:
         return "cassandra"
-    else:
-        return "others"
+
+    return "database"
 
 
 with open("titles.txt") as f:
     titles = f.readlines()
 
 
-for title in titles:
+for i, title in enumerate(titles):
 
     title = title.strip()
 
@@ -34,36 +51,30 @@ for title in titles:
 
     folder = detect_folder(title)
 
-    folder_path = os.path.join(BASE_DIR, folder)
-    os.makedirs(folder_path, exist_ok=True)
-
     id_part = title.split(" ")[0]
 
     filename = id_part + ".md"
-    filepath = os.path.join(folder_path, filename)
 
-    content = f"""# {title}
+    filepath = os.path.join(BASE_DIR, folder, filename)
+
+    content = f"""---
+title: {title}
+nav_order: {i+1}
+---
+
+# {title}
 
 Status: Draft
 
 ---
 
 ## Overview
+
 Content coming soon.
 
 ---
 
-## Steps
-
-1.
-2.
-3.
-
----
-
 ## Commands
-
-Example command here
 
 ---
 
@@ -78,4 +89,4 @@ Example command here
     with open(filepath, "w") as f:
         f.write(content)
 
-print("All articles generated successfully.")
+print("All articles generated.")
