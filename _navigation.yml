@@ -1,0 +1,18 @@
+nav:
+  - title: Home
+    url: /
+
+  - title: Oracle
+    url: /oracle
+
+  - title: PostgreSQL
+    url: /postgresql
+
+  - title: Redis
+    url: /redis
+
+  - title: MongoDB
+    url: /mongodb
+
+  - title: Cassandra
+    url: /cassandra
