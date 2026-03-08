@@ -1,5 +1,10 @@
 ---
 title: Oracle RMAN Backup Validation
+parent: Backup
+nav_order: 1
+---
+
+title: Oracle RMAN Backup Validation
 layout: default
 category: Backup
 permalink: /oracle/oracle-rman-backup-validation/

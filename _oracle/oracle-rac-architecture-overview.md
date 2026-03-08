@@ -1,5 +1,10 @@
 ---
 title: Oracle RAC Architecture Overview
+parent: Architecture
+nav_order: 1
+---
+
+title: Oracle RAC Architecture Overview
 layout: default
 category: Architecture
 permalink: /oracle/oracle-rac-architecture-overview/

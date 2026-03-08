@@ -1,5 +1,10 @@
 ---
 title: Oracle Redo Log Configuration
+parent: Architecture
+nav_order: 1
+---
+
+title: Oracle Redo Log Configuration
 layout: default
 category: General
 permalink: /oracle/oracle-redo-log-configuration/

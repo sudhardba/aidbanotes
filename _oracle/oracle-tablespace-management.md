@@ -1,5 +1,10 @@
 ---
 title: Oracle Tablespace Management
+parent: Architecture
+nav_order: 1
+---
+
+title: Oracle Tablespace Management
 layout: default
 category: General
 permalink: /oracle/oracle-tablespace-management/

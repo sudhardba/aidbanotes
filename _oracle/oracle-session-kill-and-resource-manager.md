@@ -1,5 +1,10 @@
 ---
 title: Oracle Session Kill and Resource Manager
+parent: Architecture
+nav_order: 1
+---
+
+title: Oracle Session Kill and Resource Manager
 layout: default
 category: General
 permalink: /oracle/oracle-session-kill-and-resource-manager/

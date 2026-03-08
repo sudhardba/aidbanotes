@@ -1,5 +1,10 @@
 ---
 title: Oracle RMAN Incremental Backup Guide
+parent: Backup
+nav_order: 1
+---
+
+title: Oracle RMAN Incremental Backup Guide
 layout: default
 category: Backup
 permalink: /oracle/oracle-rman-incremental-backup-guide/
