@@ -1,5 +1,5 @@
 nav:
-  - title: Home
+  - title: AIDBA Notes
     url: /
 
   - title: Oracle
@@ -8,11 +8,11 @@ nav:
   - title: PostgreSQL
     url: /postgresql
 
-  - title: Redis
-    url: /redis
-
   - title: MongoDB
     url: /mongodb
+
+  - title: Redis
+    url: /redis
 
   - title: Cassandra
     url: /cassandra
