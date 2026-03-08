@@ -1,3 +1,15 @@
 title: AIDBA Notes
 description: Database Administration and Monitoring Knowledge Base
 theme: minima
+
+collections:
+  oracle:
+    output: true
+  postgresql:
+    output: true
+  redis:
+    output: true
+  mongodb:
+    output: true
+  cassandra:
+    output: true
