@@ -1,6 +1,7 @@
 ---
 title: MongoDB Read Preference Configuration
 layout: default
+category: General
 permalink: /mongodb/mongodb-read-preference-configuration/
 ---
 

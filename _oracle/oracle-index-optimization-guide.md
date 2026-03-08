@@ -1,6 +1,7 @@
 ---
 title: Oracle Index Optimization Guide
 layout: default
+category: General
 permalink: /oracle/oracle-index-optimization-guide/
 ---
 

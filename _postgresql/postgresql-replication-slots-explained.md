@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Replication Slots Explained
 layout: default
+category: Replication
 permalink: /postgresql/postgresql-replication-slots-explained/
 ---
 

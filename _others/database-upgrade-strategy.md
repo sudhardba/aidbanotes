@@ -1,6 +1,7 @@
 ---
 title: Database Upgrade Strategy
 layout: default
+category: General
 permalink: /others/database-upgrade-strategy/
 ---
 

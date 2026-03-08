@@ -1,6 +1,7 @@
 ---
 title: Database Storage Planning
 layout: default
+category: General
 permalink: /others/database-storage-planning/
 ---
 

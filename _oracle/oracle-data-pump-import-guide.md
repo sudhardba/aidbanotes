@@ -1,6 +1,7 @@
 ---
 title: Oracle Data Pump Import Guide
 layout: default
+category: General
 permalink: /oracle/oracle-data-pump-import-guide/
 ---
 

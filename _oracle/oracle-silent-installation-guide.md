@@ -1,6 +1,7 @@
 ---
 title: Oracle Silent Installation Guide
 layout: default
+category: Setup
 permalink: /oracle/oracle-silent-installation-guide/
 ---
 

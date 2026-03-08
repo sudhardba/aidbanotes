@@ -1,6 +1,7 @@
 ---
 title: Oracle Archive Log Management
 layout: default
+category: General
 permalink: /oracle/oracle-archive-log-management/
 ---
 

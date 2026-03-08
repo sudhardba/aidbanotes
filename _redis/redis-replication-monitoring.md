@@ -1,6 +1,7 @@
 ---
 title: Redis Replication Monitoring
 layout: default
+category: Replication
 permalink: /redis/redis-replication-monitoring/
 ---
 

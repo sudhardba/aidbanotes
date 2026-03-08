@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Logical Replication Setup
 layout: default
+category: Replication
 permalink: /postgresql/postgresql-logical-replication-setup/
 ---
 

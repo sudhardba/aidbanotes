@@ -1,6 +1,7 @@
 ---
 title: MongoDB Index Performance Analysis
 layout: default
+category: Performance
 permalink: /mongodb/mongodb-index-performance-analysis/
 ---
 

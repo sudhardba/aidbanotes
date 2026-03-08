@@ -1,6 +1,7 @@
 ---
 title: Cassandra SSTable Structure
 layout: default
+category: General
 permalink: /cassandra/cassandra-sstable-structure/
 ---
 

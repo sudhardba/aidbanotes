@@ -1,6 +1,7 @@
 ---
 title: Redis Connection Pooling
 layout: default
+category: General
 permalink: /redis/redis-connection-pooling/
 ---
 

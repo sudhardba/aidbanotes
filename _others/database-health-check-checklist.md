@@ -1,6 +1,7 @@
 ---
 title: Database Health Check Checklist
 layout: default
+category: General
 permalink: /others/database-health-check-checklist/
 ---
 

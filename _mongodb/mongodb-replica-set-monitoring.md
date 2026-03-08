@@ -1,6 +1,7 @@
 ---
 title: MongoDB Replica Set Monitoring
 layout: default
+category: Replication
 permalink: /mongodb/mongodb-replica-set-monitoring/
 ---
 

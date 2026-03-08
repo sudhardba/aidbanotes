@@ -1,6 +1,7 @@
 ---
 title: Oracle Database Patching Guide
 layout: default
+category: General
 permalink: /oracle/oracle-database-patching-guide/
 ---
 

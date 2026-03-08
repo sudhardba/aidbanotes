@@ -1,6 +1,7 @@
 ---
 title: MongoDB Aggregation Pipeline Basics
 layout: default
+category: General
 permalink: /mongodb/mongodb-aggregation-pipeline-basics/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: MongoDB Disk Usage Monitoring
 layout: default
+category: Monitoring
 permalink: /mongodb/mongodb-disk-usage-monitoring/
 ---
 

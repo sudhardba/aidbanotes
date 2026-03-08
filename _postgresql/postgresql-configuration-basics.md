@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Configuration Basics
 layout: default
+category: General
 permalink: /postgresql/postgresql-configuration-basics/
 ---
 

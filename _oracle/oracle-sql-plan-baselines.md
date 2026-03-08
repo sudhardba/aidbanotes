@@ -1,6 +1,7 @@
 ---
 title: Oracle SQL Plan Baselines
 layout: default
+category: General
 permalink: /oracle/oracle-sql-plan-baselines/
 ---
 

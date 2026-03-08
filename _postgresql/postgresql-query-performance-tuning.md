@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Query Performance Tuning
 layout: default
+category: Performance
 permalink: /postgresql/postgresql-query-performance-tuning/
 ---
 

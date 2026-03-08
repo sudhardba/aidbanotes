@@ -1,6 +1,7 @@
 ---
 title: Database Change Management Process
 layout: default
+category: General
 permalink: /others/database-change-management-process/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Oracle Partition Management
 layout: default
+category: General
 permalink: /oracle/oracle-partition-management/
 ---
 

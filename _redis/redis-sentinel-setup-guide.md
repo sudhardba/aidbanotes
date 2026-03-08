@@ -1,6 +1,7 @@
 ---
 title: Redis Sentinel Setup Guide
 layout: default
+category: Setup
 permalink: /redis/redis-sentinel-setup-guide/
 ---
 

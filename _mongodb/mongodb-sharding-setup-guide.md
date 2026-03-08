@@ -1,6 +1,7 @@
 ---
 title: MongoDB Sharding Setup Guide
 layout: default
+category: Setup
 permalink: /mongodb/mongodb-sharding-setup-guide/
 ---
 

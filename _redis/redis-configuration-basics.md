@@ -1,6 +1,7 @@
 ---
 title: Redis Configuration Basics
 layout: default
+category: General
 permalink: /redis/redis-configuration-basics/
 ---
 

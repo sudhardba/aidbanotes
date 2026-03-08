@@ -1,6 +1,7 @@
 ---
 title: Oracle Redo Log Configuration
 layout: default
+category: General
 permalink: /oracle/oracle-redo-log-configuration/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Oracle Tablespace Recovery Guide
 layout: default
+category: General
 permalink: /oracle/oracle-tablespace-recovery-guide/
 ---
 

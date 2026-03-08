@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Installation Guide
 layout: default
+category: Setup
 permalink: /postgresql/postgresql-installation-guide/
 ---
 

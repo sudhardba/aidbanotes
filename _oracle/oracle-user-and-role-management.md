@@ -1,6 +1,7 @@
 ---
 title: Oracle User and Role Management
 layout: default
+category: General
 permalink: /oracle/oracle-user-and-role-management/
 ---
 

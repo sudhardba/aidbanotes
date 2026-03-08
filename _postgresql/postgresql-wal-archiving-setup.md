@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL WAL Archiving Setup
 layout: default
+category: Setup
 permalink: /postgresql/postgresql-wal-archiving-setup/
 ---
 

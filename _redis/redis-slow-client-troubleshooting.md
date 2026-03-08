@@ -1,6 +1,7 @@
 ---
 title: Redis Slow Client Troubleshooting
 layout: default
+category: Troubleshooting
 permalink: /redis/redis-slow-client-troubleshooting/
 ---
 

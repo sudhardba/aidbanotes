@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Long Running Query Detection
 layout: default
+category: General
 permalink: /postgresql/postgresql-long-running-query-detection/
 ---
 

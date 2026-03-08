@@ -1,6 +1,7 @@
 ---
 title: MongoDB Installation Guide
 layout: default
+category: Setup
 permalink: /mongodb/mongodb-installation-guide/
 ---
 

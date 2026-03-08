@@ -1,6 +1,7 @@
 ---
 title: Oracle ASM Diskgroup Setup
 layout: default
+category: Setup
 permalink: /oracle/oracle-asm-diskgroup-setup/
 ---
 

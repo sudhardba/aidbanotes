@@ -1,6 +1,7 @@
 ---
 title: Oracle Data Guard Overview
 layout: default
+category: General
 permalink: /oracle/oracle-data-guard-overview/
 ---
 

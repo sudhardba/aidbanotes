@@ -1,6 +1,7 @@
 ---
 title: Oracle Listener Configuration Guide
 layout: default
+category: General
 permalink: /oracle/oracle-listener-configuration-guide/
 ---
 

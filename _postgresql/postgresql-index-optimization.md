@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Index Optimization
 layout: default
+category: General
 permalink: /postgresql/postgresql-index-optimization/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Replication Failover Process
 layout: default
+category: Replication
 permalink: /postgresql/postgresql-replication-failover-process/
 ---
 

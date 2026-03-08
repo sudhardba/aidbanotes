@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Autovacuum Explained
 layout: default
+category: General
 permalink: /postgresql/postgresql-autovacuum-explained/
 ---
 

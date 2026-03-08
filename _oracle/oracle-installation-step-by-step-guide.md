@@ -1,6 +1,7 @@
 ---
 title: Oracle Installation Step-by-Step Guide
 layout: default
+category: Setup
 permalink: /oracle/oracle-installation-step-by-step-guide/
 ---
 

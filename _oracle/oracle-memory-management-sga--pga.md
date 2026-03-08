@@ -1,6 +1,7 @@
 ---
 title: Oracle Memory Management (SGA & PGA)
 layout: default
+category: General
 permalink: /oracle/oracle-memory-management-sga--pga/
 ---
 

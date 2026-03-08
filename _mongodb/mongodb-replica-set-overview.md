@@ -1,6 +1,7 @@
 ---
 title: MongoDB Replica Set Overview
 layout: default
+category: Replication
 permalink: /mongodb/mongodb-replica-set-overview/
 ---
 

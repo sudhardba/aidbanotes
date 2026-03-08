@@ -1,6 +1,7 @@
 ---
 title: Oracle Listener Troubleshooting
 layout: default
+category: Troubleshooting
 permalink: /oracle/oracle-listener-troubleshooting/
 ---
 

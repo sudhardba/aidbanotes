@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Performance Benchmarking
 layout: default
+category: Performance
 permalink: /postgresql/postgresql-performance-benchmarking/
 ---
 

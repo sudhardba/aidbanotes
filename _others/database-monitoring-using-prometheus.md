@@ -1,6 +1,7 @@
 ---
 title: Database Monitoring using Prometheus
 layout: default
+category: Monitoring
 permalink: /others/database-monitoring-using-prometheus/
 ---
 

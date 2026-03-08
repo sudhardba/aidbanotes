@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL User Management
 layout: default
+category: General
 permalink: /postgresql/postgresql-user-management/
 ---
 

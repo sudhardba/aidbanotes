@@ -1,6 +1,7 @@
 ---
 title: Redis Failover Process
 layout: default
+category: General
 permalink: /redis/redis-failover-process/
 ---
 

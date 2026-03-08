@@ -1,6 +1,7 @@
 ---
 title: MongoDB Security Basics
 layout: default
+category: Security
 permalink: /mongodb/mongodb-security-basics/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Redis Security Basics
 layout: default
+category: Security
 permalink: /redis/redis-security-basics/
 ---
 

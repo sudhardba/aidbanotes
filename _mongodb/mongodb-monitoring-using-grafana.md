@@ -1,6 +1,7 @@
 ---
 title: MongoDB Monitoring using Grafana
 layout: default
+category: Monitoring
 permalink: /mongodb/mongodb-monitoring-using-grafana/
 ---
 

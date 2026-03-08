@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Monitoring using Grafana
 layout: default
+category: Monitoring
 permalink: /postgresql/postgresql-monitoring-using-grafana/
 ---
 

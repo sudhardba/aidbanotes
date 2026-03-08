@@ -1,6 +1,7 @@
 ---
 title: Cassandra Backup Strategy
 layout: default
+category: Backup
 permalink: /cassandra/cassandra-backup-strategy/
 ---
 

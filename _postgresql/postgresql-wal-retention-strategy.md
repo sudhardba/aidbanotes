@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL WAL Retention Strategy
 layout: default
+category: General
 permalink: /postgresql/postgresql-wal-retention-strategy/
 ---
 

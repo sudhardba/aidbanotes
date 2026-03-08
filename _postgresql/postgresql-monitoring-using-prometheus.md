@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Monitoring using Prometheus
 layout: default
+category: Monitoring
 permalink: /postgresql/postgresql-monitoring-using-prometheus/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Redis Installation Guide
 layout: default
+category: Setup
 permalink: /redis/redis-installation-guide/
 ---
 

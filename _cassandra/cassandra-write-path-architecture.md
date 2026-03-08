@@ -1,6 +1,7 @@
 ---
 title: Cassandra Write Path Architecture
 layout: default
+category: Architecture
 permalink: /cassandra/cassandra-write-path-architecture/
 ---
 

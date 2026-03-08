@@ -1,6 +1,7 @@
 ---
 title: MongoDB Indexing Guide
 layout: default
+category: General
 permalink: /mongodb/mongodb-indexing-guide/
 ---
 

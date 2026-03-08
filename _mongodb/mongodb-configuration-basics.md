@@ -1,6 +1,7 @@
 ---
 title: MongoDB Configuration Basics
 layout: default
+category: General
 permalink: /mongodb/mongodb-configuration-basics/
 ---
 

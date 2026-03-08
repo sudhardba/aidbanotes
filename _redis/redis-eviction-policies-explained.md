@@ -1,6 +1,7 @@
 ---
 title: Redis Eviction Policies Explained
 layout: default
+category: General
 permalink: /redis/redis-eviction-policies-explained/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Backup Strategy
 layout: default
+category: Backup
 permalink: /postgresql/postgresql-backup-strategy/
 ---
 

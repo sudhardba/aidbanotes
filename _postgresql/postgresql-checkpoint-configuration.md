@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Checkpoint Configuration
 layout: default
+category: General
 permalink: /postgresql/postgresql-checkpoint-configuration/
 ---
 

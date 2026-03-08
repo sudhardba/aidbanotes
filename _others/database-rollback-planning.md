@@ -1,6 +1,7 @@
 ---
 title: Database Rollback Planning
 layout: default
+category: General
 permalink: /others/database-rollback-planning/
 ---
 

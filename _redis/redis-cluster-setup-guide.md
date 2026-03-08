@@ -1,6 +1,7 @@
 ---
 title: Redis Cluster Setup Guide
 layout: default
+category: Architecture
 permalink: /redis/redis-cluster-setup-guide/
 ---
 

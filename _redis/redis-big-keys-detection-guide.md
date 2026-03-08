@@ -1,6 +1,7 @@
 ---
 title: Redis Big Keys Detection Guide
 layout: default
+category: General
 permalink: /redis/redis-big-keys-detection-guide/
 ---
 

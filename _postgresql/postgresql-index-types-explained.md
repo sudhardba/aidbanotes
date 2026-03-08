@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Index Types Explained
 layout: default
+category: General
 permalink: /postgresql/postgresql-index-types-explained/
 ---
 

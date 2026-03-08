@@ -1,6 +1,7 @@
 ---
 title: Cassandra Performance Troubleshooting
 layout: default
+category: Performance
 permalink: /cassandra/cassandra-performance-troubleshooting/
 ---
 

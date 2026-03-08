@@ -1,6 +1,7 @@
 ---
 title: MongoDB Sharding Architecture
 layout: default
+category: Architecture
 permalink: /mongodb/mongodb-sharding-architecture/
 ---
 

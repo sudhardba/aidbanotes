@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Extension Management
 layout: default
+category: General
 permalink: /postgresql/postgresql-extension-management/
 ---
 

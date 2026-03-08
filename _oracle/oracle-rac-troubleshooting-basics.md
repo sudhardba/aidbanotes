@@ -1,6 +1,7 @@
 ---
 title: Oracle RAC Troubleshooting Basics
 layout: default
+category: Troubleshooting
 permalink: /oracle/oracle-rac-troubleshooting-basics/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Memory Configuration
 layout: default
+category: General
 permalink: /postgresql/postgresql-memory-configuration/
 ---
 

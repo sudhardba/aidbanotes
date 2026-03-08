@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Autovacuum Troubleshooting
 layout: default
+category: Troubleshooting
 permalink: /postgresql/postgresql-autovacuum-troubleshooting/
 ---
 

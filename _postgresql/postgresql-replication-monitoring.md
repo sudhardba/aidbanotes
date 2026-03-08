@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Replication Monitoring
 layout: default
+category: Replication
 permalink: /postgresql/postgresql-replication-monitoring/
 ---
 

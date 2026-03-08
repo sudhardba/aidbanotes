@@ -1,6 +1,7 @@
 ---
 title: Database Deployment Checklist
 layout: default
+category: General
 permalink: /others/database-deployment-checklist/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Redis Replication Setup
 layout: default
+category: Replication
 permalink: /redis/redis-replication-setup/
 ---
 

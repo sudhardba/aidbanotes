@@ -1,6 +1,7 @@
 ---
 title: Database Production Best Practices
 layout: default
+category: General
 permalink: /others/database-production-best-practices/
 ---
 

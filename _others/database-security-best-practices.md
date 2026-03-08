@@ -1,6 +1,7 @@
 ---
 title: Database Security Best Practices
 layout: default
+category: Security
 permalink: /others/database-security-best-practices/
 ---
 

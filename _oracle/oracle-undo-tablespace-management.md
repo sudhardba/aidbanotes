@@ -1,6 +1,7 @@
 ---
 title: Oracle Undo Tablespace Management
 layout: default
+category: General
 permalink: /oracle/oracle-undo-tablespace-management/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Oracle Tablespace Management
 layout: default
+category: General
 permalink: /oracle/oracle-tablespace-management/
 ---
 

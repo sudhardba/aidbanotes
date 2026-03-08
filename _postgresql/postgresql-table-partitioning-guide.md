@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Table Partitioning Guide
 layout: default
+category: General
 permalink: /postgresql/postgresql-table-partitioning-guide/
 ---
 

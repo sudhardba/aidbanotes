@@ -1,6 +1,7 @@
 ---
 title: Cassandra Monitoring Basics
 layout: default
+category: Monitoring
 permalink: /cassandra/cassandra-monitoring-basics/
 ---
 

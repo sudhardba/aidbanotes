@@ -1,6 +1,7 @@
 ---
 title: Oracle RMAN Restore Guide
 layout: default
+category: Recovery
 permalink: /oracle/oracle-rman-restore-guide/
 ---
 

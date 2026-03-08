@@ -1,6 +1,7 @@
 ---
 title: Oracle Data Guard Setup Guide
 layout: default
+category: Setup
 permalink: /oracle/oracle-data-guard-setup-guide/
 ---
 

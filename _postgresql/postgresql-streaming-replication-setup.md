@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Streaming Replication Setup
 layout: default
+category: Replication
 permalink: /postgresql/postgresql-streaming-replication-setup/
 ---
 

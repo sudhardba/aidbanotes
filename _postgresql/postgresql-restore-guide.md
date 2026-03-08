@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Restore Guide
 layout: default
+category: Recovery
 permalink: /postgresql/postgresql-restore-guide/
 ---
 

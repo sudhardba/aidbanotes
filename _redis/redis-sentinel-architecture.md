@@ -1,6 +1,7 @@
 ---
 title: Redis Sentinel Architecture
 layout: default
+category: Architecture
 permalink: /redis/redis-sentinel-architecture/
 ---
 

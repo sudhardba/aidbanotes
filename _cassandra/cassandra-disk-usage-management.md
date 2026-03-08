@@ -1,6 +1,7 @@
 ---
 title: Cassandra Disk Usage Management
 layout: default
+category: General
 permalink: /cassandra/cassandra-disk-usage-management/
 ---
 

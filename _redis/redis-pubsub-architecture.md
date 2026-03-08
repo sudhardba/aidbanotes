@@ -1,6 +1,7 @@
 ---
 title: Redis Pub/Sub Architecture
 layout: default
+category: Architecture
 permalink: /redis/redis-pubsub-architecture/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Database Storage Optimization
 layout: default
+category: General
 permalink: /others/database-storage-optimization/
 ---
 

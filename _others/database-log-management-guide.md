@@ -1,6 +1,7 @@
 ---
 title: Database Log Management Guide
 layout: default
+category: General
 permalink: /others/database-log-management-guide/
 ---
 

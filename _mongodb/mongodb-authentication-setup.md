@@ -1,6 +1,7 @@
 ---
 title: MongoDB Authentication Setup
 layout: default
+category: Setup
 permalink: /mongodb/mongodb-authentication-setup/
 ---
 

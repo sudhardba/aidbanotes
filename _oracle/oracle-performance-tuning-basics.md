@@ -1,6 +1,7 @@
 ---
 title: Oracle Performance Tuning Basics
 layout: default
+category: Performance
 permalink: /oracle/oracle-performance-tuning-basics/
 ---
 

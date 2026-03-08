@@ -1,6 +1,7 @@
 ---
 title: Cassandra Security Best Practices
 layout: default
+category: Security
 permalink: /cassandra/cassandra-security-best-practices/
 ---
 

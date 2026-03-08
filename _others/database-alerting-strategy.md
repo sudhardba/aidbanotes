@@ -1,6 +1,7 @@
 ---
 title: Database Alerting Strategy
 layout: default
+category: General
 permalink: /others/database-alerting-strategy/
 ---
 

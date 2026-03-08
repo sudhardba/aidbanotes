@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Database Upgrade using pg_upgrade
 layout: default
+category: General
 permalink: /postgresql/postgresql-database-upgrade-using-pgupgrade/
 ---
 

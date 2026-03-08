@@ -1,6 +1,7 @@
 ---
 title: Oracle Data Pump Export Guide
 layout: default
+category: General
 permalink: /oracle/oracle-data-pump-export-guide/
 ---
 

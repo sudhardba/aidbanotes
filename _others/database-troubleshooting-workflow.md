@@ -1,6 +1,7 @@
 ---
 title: Database Troubleshooting Workflow
 layout: default
+category: Troubleshooting
 permalink: /others/database-troubleshooting-workflow/
 ---
 

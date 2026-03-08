@@ -1,6 +1,7 @@
 ---
 title: Oracle Flashback Table Usage
 layout: default
+category: Recovery
 permalink: /oracle/oracle-flashback-table-usage/
 ---
 

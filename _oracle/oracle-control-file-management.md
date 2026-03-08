@@ -1,6 +1,7 @@
 ---
 title: Oracle Control File Management
 layout: default
+category: General
 permalink: /oracle/oracle-control-file-management/
 ---
 

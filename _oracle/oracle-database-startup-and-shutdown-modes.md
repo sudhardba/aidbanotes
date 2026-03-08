@@ -1,6 +1,7 @@
 ---
 title: Oracle Database Startup and Shutdown Modes
 layout: default
+category: General
 permalink: /oracle/oracle-database-startup-and-shutdown-modes/
 ---
 

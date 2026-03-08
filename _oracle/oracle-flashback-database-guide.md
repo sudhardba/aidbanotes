@@ -1,6 +1,7 @@
 ---
 title: Oracle Flashback Database Guide
 layout: default
+category: Recovery
 permalink: /oracle/oracle-flashback-database-guide/
 ---
 

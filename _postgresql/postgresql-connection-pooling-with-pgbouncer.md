@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Connection Pooling with PgBouncer
 layout: default
+category: General
 permalink: /postgresql/postgresql-connection-pooling-with-pgbouncer/
 ---
 

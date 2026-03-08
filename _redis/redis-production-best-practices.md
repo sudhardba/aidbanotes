@@ -1,6 +1,7 @@
 ---
 title: Redis Production Best Practices
 layout: default
+category: General
 permalink: /redis/redis-production-best-practices/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Cassandra Repair Operation Guide
 layout: default
+category: General
 permalink: /cassandra/cassandra-repair-operation-guide/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Cassandra Installation Guide
 layout: default
+category: Setup
 permalink: /cassandra/cassandra-installation-guide/
 ---
 

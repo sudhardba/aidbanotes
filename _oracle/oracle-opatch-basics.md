@@ -1,6 +1,7 @@
 ---
 title: Oracle OPatch Basics
 layout: default
+category: General
 permalink: /oracle/oracle-opatch-basics/
 ---
 

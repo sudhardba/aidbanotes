@@ -1,6 +1,7 @@
 ---
 title: MongoDB Balancer Process
 layout: default
+category: General
 permalink: /mongodb/mongodb-balancer-process/
 ---
 

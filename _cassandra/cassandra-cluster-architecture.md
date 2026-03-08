@@ -1,6 +1,7 @@
 ---
 title: Cassandra Cluster Architecture
 layout: default
+category: Architecture
 permalink: /cassandra/cassandra-cluster-architecture/
 ---
 

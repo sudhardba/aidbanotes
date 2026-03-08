@@ -1,6 +1,7 @@
 ---
 title: Cassandra Monitoring with Prometheus
 layout: default
+category: Monitoring
 permalink: /cassandra/cassandra-monitoring-with-prometheus/
 ---
 

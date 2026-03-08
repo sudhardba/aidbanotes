@@ -1,6 +1,7 @@
 ---
 title: Database Incident Response Playbook
 layout: default
+category: General
 permalink: /others/database-incident-response-playbook/
 ---
 

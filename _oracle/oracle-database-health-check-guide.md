@@ -1,6 +1,7 @@
 ---
 title: Oracle Database Health Check Guide
 layout: default
+category: General
 permalink: /oracle/oracle-database-health-check-guide/
 ---
 

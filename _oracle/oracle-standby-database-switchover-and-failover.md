@@ -1,6 +1,7 @@
 ---
 title: Oracle Standby Database Switchover and Failover
 layout: default
+category: General
 permalink: /oracle/oracle-standby-database-switchover-and-failover/
 ---
 

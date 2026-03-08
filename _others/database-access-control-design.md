@@ -1,6 +1,7 @@
 ---
 title: Database Access Control Design
 layout: default
+category: General
 permalink: /others/database-access-control-design/
 ---
 

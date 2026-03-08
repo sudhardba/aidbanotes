@@ -1,6 +1,7 @@
 ---
 title: Redis Cluster Rebalancing
 layout: default
+category: Architecture
 permalink: /redis/redis-cluster-rebalancing/
 ---
 

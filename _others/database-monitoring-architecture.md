@@ -1,6 +1,7 @@
 ---
 title: Database Monitoring Architecture
 layout: default
+category: Monitoring
 permalink: /others/database-monitoring-architecture/
 ---
 

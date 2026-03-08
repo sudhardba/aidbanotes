@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Lock Monitoring
 layout: default
+category: Monitoring
 permalink: /postgresql/postgresql-lock-monitoring/
 ---
 

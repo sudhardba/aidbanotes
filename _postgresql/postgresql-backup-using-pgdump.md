@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Backup using pg_dump
 layout: default
+category: Backup
 permalink: /postgresql/postgresql-backup-using-pgdump/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: MongoDB Chunk Migration Explained
 layout: default
+category: General
 permalink: /mongodb/mongodb-chunk-migration-explained/
 ---
 

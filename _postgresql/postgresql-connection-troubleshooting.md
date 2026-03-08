@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL Connection Troubleshooting
 layout: default
+category: Troubleshooting
 permalink: /postgresql/postgresql-connection-troubleshooting/
 ---
 

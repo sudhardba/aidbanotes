@@ -1,6 +1,7 @@
 ---
 title: Redis Production Capacity Planning
 layout: default
+category: General
 permalink: /redis/redis-production-capacity-planning/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: MongoDB Backup Strategy
 layout: default
+category: Backup
 permalink: /mongodb/mongodb-backup-strategy/
 ---
 

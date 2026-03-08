@@ -1,6 +1,7 @@
 ---
 title: Cassandra Restore Guide
 layout: default
+category: Recovery
 permalink: /cassandra/cassandra-restore-guide/
 ---
 

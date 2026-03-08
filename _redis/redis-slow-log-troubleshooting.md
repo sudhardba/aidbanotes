@@ -1,6 +1,7 @@
 ---
 title: Redis Slow Log Troubleshooting
 layout: default
+category: Troubleshooting
 permalink: /redis/redis-slow-log-troubleshooting/
 ---
 

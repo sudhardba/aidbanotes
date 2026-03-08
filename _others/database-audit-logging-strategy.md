@@ -1,6 +1,7 @@
 ---
 title: Database Audit Logging Strategy
 layout: default
+category: General
 permalink: /others/database-audit-logging-strategy/
 ---
 
