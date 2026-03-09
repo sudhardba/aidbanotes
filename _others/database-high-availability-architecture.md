@@ -1,5 +1,6 @@
 ---
 title: Database High Availability Architecture
+parent: Architecture
 layout: default
 category: Architecture
 permalink: /others/database-high-availability-architecture/

@@ -1,14 +1,12 @@
 ---
 title: Oracle Data Pump Import Guide
-parent: Architecture
+parent: Operations
 nav_order: 1
----
-
-title: Oracle Data Pump Import Guide
 layout: default
 category: General
 permalink: /oracle/oracle-data-pump-import-guide/
 ---
+
 
 # Oracle Data Pump Import Guide
 

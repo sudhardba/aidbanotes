@@ -1,5 +1,6 @@
 ---
 title: Redis Memory Fragmentation Analysis
+parent: Operations
 layout: default
 category: General
 permalink: /redis/redis-memory-fragmentation-analysis/

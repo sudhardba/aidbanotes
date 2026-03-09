@@ -1,5 +1,6 @@
 ---
 title: PostgreSQL Extension Management
+parent: Operations
 layout: default
 category: General
 permalink: /postgresql/postgresql-extension-management/

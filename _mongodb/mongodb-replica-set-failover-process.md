@@ -1,5 +1,6 @@
 ---
 title: MongoDB Replica Set Failover Process
+parent: Replication
 layout: default
 category: Replication
 permalink: /mongodb/mongodb-replica-set-failover-process/

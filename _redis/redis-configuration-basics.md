@@ -1,5 +1,6 @@
 ---
 title: Redis Configuration Basics
+parent: Operations
 layout: default
 category: General
 permalink: /redis/redis-configuration-basics/

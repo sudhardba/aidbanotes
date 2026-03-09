@@ -1,5 +1,6 @@
 ---
 title: PostgreSQL Backup Compression Strategies
+parent: Backup
 layout: default
 category: Backup
 permalink: /postgresql/postgresql-backup-compression-strategies/

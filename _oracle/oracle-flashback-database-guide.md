@@ -2,13 +2,11 @@
 title: Oracle Flashback Database Guide
 parent: Recovery
 nav_order: 1
----
-
-title: Oracle Flashback Database Guide
 layout: default
 category: Recovery
 permalink: /oracle/oracle-flashback-database-guide/
 ---
+
 
 # Oracle Flashback Database Guide
 

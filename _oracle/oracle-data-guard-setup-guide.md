@@ -1,14 +1,12 @@
 ---
 title: Oracle Data Guard Setup Guide
-parent: Architecture
+parent: Setup
 nav_order: 1
----
-
-title: Oracle Data Guard Setup Guide
 layout: default
 category: Setup
 permalink: /oracle/oracle-data-guard-setup-guide/
 ---
+
 
 # Oracle Data Guard Setup Guide
 

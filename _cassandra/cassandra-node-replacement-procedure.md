@@ -1,5 +1,6 @@
 ---
 title: Cassandra Node Replacement Procedure
+parent: Operations
 layout: default
 category: General
 permalink: /cassandra/cassandra-node-replacement-procedure/

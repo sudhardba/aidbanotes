@@ -1,5 +1,6 @@
 ---
 title: PostgreSQL Database Maintenance Guide
+parent: Operations
 layout: default
 category: General
 permalink: /postgresql/postgresql-database-maintenance-guide/

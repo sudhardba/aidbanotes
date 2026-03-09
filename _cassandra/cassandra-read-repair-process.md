@@ -1,5 +1,6 @@
 ---
 title: Cassandra Read Repair Process
+parent: Operations
 layout: default
 category: General
 permalink: /cassandra/cassandra-read-repair-process/

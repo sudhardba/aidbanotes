@@ -1,14 +1,12 @@
 ---
 title: Oracle Partition Management
-parent: Architecture
+parent: Operations
 nav_order: 1
----
-
-title: Oracle Partition Management
 layout: default
 category: General
 permalink: /oracle/oracle-partition-management/
 ---
+
 
 # Oracle Partition Management
 

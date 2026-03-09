@@ -1,5 +1,6 @@
 ---
 title: Database Incident Root Cause Analysis
+parent: Operations
 layout: default
 category: General
 permalink: /others/database-incident-root-cause-analysis/

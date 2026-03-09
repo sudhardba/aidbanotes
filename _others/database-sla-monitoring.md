@@ -1,5 +1,6 @@
 ---
 title: Database SLA Monitoring
+parent: Monitoring
 layout: default
 category: Monitoring
 permalink: /others/database-sla-monitoring/

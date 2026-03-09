@@ -1,5 +1,6 @@
 ---
 title: PostgreSQL User Management
+parent: Operations
 layout: default
 category: General
 permalink: /postgresql/postgresql-user-management/

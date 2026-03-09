@@ -1,5 +1,6 @@
 ---
 title: PostgreSQL Index Optimization
+parent: Operations
 layout: default
 category: General
 permalink: /postgresql/postgresql-index-optimization/

@@ -1,5 +1,6 @@
 ---
 title: Redis Monitoring using Grafana
+parent: Monitoring
 layout: default
 category: Monitoring
 permalink: /redis/redis-monitoring-using-grafana/

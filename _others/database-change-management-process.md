@@ -1,5 +1,6 @@
 ---
 title: Database Change Management Process
+parent: Operations
 layout: default
 category: General
 permalink: /others/database-change-management-process/

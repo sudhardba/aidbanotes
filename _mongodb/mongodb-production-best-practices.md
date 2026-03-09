@@ -1,5 +1,6 @@
 ---
 title: MongoDB Production Best Practices
+parent: Operations
 layout: default
 category: General
 permalink: /mongodb/mongodb-production-best-practices/

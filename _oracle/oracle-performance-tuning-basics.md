@@ -2,13 +2,11 @@
 title: Oracle Performance Tuning Basics
 parent: Performance
 nav_order: 1
----
-
-title: Oracle Performance Tuning Basics
 layout: default
 category: Performance
 permalink: /oracle/oracle-performance-tuning-basics/
 ---
+
 
 # Oracle Performance Tuning Basics
 

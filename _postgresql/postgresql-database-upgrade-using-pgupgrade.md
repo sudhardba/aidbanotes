@@ -1,5 +1,6 @@
 ---
 title: PostgreSQL Database Upgrade using pg_upgrade
+parent: Operations
 layout: default
 category: General
 permalink: /postgresql/postgresql-database-upgrade-using-pgupgrade/

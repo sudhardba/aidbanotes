@@ -1,14 +1,12 @@
 ---
 title: Oracle SQL Plan Baselines
-parent: Architecture
+parent: Operations
 nav_order: 1
----
-
-title: Oracle SQL Plan Baselines
 layout: default
 category: General
 permalink: /oracle/oracle-sql-plan-baselines/
 ---
+
 
 # Oracle SQL Plan Baselines
 

@@ -1,5 +1,6 @@
 ---
 title: Redis Monitoring using Prometheus
+parent: Monitoring
 layout: default
 category: Monitoring
 permalink: /redis/redis-monitoring-using-prometheus/

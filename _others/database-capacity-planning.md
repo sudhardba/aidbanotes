@@ -1,5 +1,6 @@
 ---
 title: Database Capacity Planning
+parent: Operations
 layout: default
 category: General
 permalink: /others/database-capacity-planning/

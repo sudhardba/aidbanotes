@@ -1,5 +1,6 @@
 ---
 title: Database Backup Strategy Design
+parent: Backup
 layout: default
 category: Backup
 permalink: /others/database-backup-strategy-design/

@@ -1,5 +1,6 @@
 ---
 title: PostgreSQL Checkpoint Configuration
+parent: Operations
 layout: default
 category: General
 permalink: /postgresql/postgresql-checkpoint-configuration/

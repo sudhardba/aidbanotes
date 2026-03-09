@@ -1,5 +1,6 @@
 ---
 title: MongoDB Monitoring using Prometheus
+parent: Monitoring
 layout: default
 category: Monitoring
 permalink: /mongodb/mongodb-monitoring-using-prometheus/

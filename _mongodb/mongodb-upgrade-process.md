@@ -1,5 +1,6 @@
 ---
 title: MongoDB Upgrade Process
+parent: Operations
 layout: default
 category: General
 permalink: /mongodb/mongodb-upgrade-process/

@@ -1,5 +1,6 @@
 ---
 title: Database Encryption Best Practices
+parent: Security
 layout: default
 category: Security
 permalink: /others/database-encryption-best-practices/

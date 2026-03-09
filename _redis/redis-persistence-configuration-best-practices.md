@@ -1,5 +1,6 @@
 ---
 title: Redis Persistence Configuration Best Practices
+parent: Operations
 layout: default
 category: General
 permalink: /redis/redis-persistence-configuration-best-practices/

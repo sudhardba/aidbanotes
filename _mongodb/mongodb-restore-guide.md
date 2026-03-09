@@ -1,5 +1,6 @@
 ---
 title: MongoDB Restore Guide
+parent: Recovery
 layout: default
 category: Recovery
 permalink: /mongodb/mongodb-restore-guide/

@@ -1,5 +1,6 @@
 ---
 title: Database Disaster Recovery Planning
+parent: Operations
 layout: default
 category: General
 permalink: /others/database-disaster-recovery-planning/

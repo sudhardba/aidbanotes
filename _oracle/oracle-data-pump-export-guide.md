@@ -1,14 +1,12 @@
 ---
 title: Oracle Data Pump Export Guide
-parent: Architecture
+parent: Operations
 nav_order: 1
----
-
-title: Oracle Data Pump Export Guide
 layout: default
 category: General
 permalink: /oracle/oracle-data-pump-export-guide/
 ---
+
 
 # Oracle Data Pump Export Guide
 

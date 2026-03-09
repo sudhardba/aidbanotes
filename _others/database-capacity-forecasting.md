@@ -1,5 +1,6 @@
 ---
 title: Database Capacity Forecasting
+parent: Operations
 layout: default
 category: General
 permalink: /others/database-capacity-forecasting/

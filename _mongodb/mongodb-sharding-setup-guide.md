@@ -1,5 +1,6 @@
 ---
 title: MongoDB Sharding Setup Guide
+parent: Setup
 layout: default
 category: Setup
 permalink: /mongodb/mongodb-sharding-setup-guide/

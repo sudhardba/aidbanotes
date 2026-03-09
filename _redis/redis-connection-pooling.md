@@ -1,5 +1,6 @@
 ---
 title: Redis Connection Pooling
+parent: Operations
 layout: default
 category: General
 permalink: /redis/redis-connection-pooling/

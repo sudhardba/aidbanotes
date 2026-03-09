@@ -1,5 +1,6 @@
 ---
 title: Redis Cluster Rebalancing
+parent: Architecture
 layout: default
 category: Architecture
 permalink: /redis/redis-cluster-rebalancing/

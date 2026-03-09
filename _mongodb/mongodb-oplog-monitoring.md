@@ -1,5 +1,6 @@
 ---
 title: MongoDB Oplog Monitoring
+parent: Monitoring
 layout: default
 category: Monitoring
 permalink: /mongodb/mongodb-oplog-monitoring/

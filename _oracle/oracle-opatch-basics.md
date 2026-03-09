@@ -1,14 +1,12 @@
 ---
 title: Oracle OPatch Basics
-parent: Architecture
+parent: Operations
 nav_order: 1
----
-
-title: Oracle OPatch Basics
 layout: default
 category: General
 permalink: /oracle/oracle-opatch-basics/
 ---
+
 
 # Oracle OPatch Basics
 

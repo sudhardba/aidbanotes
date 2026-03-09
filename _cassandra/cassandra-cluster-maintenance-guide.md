@@ -1,5 +1,6 @@
 ---
 title: Cassandra Cluster Maintenance Guide
+parent: Architecture
 layout: default
 category: Architecture
 permalink: /cassandra/cassandra-cluster-maintenance-guide/

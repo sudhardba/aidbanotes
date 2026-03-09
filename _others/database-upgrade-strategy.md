@@ -1,5 +1,6 @@
 ---
 title: Database Upgrade Strategy
+parent: Operations
 layout: default
 category: General
 permalink: /others/database-upgrade-strategy/

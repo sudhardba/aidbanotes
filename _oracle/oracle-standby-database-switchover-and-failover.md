@@ -1,14 +1,12 @@
 ---
 title: Oracle Standby Database Switchover and Failover
-parent: Architecture
+parent: Operations
 nav_order: 1
----
-
-title: Oracle Standby Database Switchover and Failover
 layout: default
 category: General
 permalink: /oracle/oracle-standby-database-switchover-and-failover/
 ---
+
 
 # Oracle Standby Database Switchover and Failover
 

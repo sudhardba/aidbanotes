@@ -1,5 +1,6 @@
 ---
 title: Cassandra Restore Guide
+parent: Recovery
 layout: default
 category: Recovery
 permalink: /cassandra/cassandra-restore-guide/

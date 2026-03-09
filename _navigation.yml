@@ -16,3 +16,9 @@ nav:
 
   - title: Cassandra
     url: /cassandra
+
+  - title: Others
+    url: /others
+
+  - title: About
+    url: /about

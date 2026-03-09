@@ -1,5 +1,6 @@
 ---
 title: PostgreSQL Query Execution Plan Analysis
+parent: Operations
 layout: default
 category: General
 permalink: /postgresql/postgresql-query-execution-plan-analysis/

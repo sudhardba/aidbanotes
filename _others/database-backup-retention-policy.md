@@ -1,5 +1,6 @@
 ---
 title: Database Backup Retention Policy
+parent: Backup
 layout: default
 category: Backup
 permalink: /others/database-backup-retention-policy/

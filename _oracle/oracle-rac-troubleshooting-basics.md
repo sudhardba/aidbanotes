@@ -1,14 +1,12 @@
 ---
 title: Oracle RAC Troubleshooting Basics
-parent: Architecture
+parent: Troubleshooting
 nav_order: 1
----
-
-title: Oracle RAC Troubleshooting Basics
 layout: default
 category: Troubleshooting
 permalink: /oracle/oracle-rac-troubleshooting-basics/
 ---
+
 
 # Oracle RAC Troubleshooting Basics
 

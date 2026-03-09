@@ -1,5 +1,6 @@
 ---
 title: MongoDB Configuration Basics
+parent: Operations
 layout: default
 category: General
 permalink: /mongodb/mongodb-configuration-basics/

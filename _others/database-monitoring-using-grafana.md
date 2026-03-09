@@ -1,5 +1,6 @@
 ---
 title: Database Monitoring using Grafana
+parent: Monitoring
 layout: default
 category: Monitoring
 permalink: /others/database-monitoring-using-grafana/

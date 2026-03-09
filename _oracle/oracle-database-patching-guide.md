@@ -1,14 +1,12 @@
 ---
 title: Oracle Database Patching Guide
-parent: Architecture
+parent: Operations
 nav_order: 1
----
-
-title: Oracle Database Patching Guide
 layout: default
 category: General
 permalink: /oracle/oracle-database-patching-guide/
 ---
+
 
 # Oracle Database Patching Guide
 

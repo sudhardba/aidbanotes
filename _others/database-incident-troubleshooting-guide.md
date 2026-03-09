@@ -1,5 +1,6 @@
 ---
 title: Database Incident Troubleshooting Guide
+parent: Troubleshooting
 layout: default
 category: Troubleshooting
 permalink: /others/database-incident-troubleshooting-guide/

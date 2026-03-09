@@ -1,5 +1,6 @@
 ---
 title: MongoDB Indexing Guide
+parent: Operations
 layout: default
 category: General
 permalink: /mongodb/mongodb-indexing-guide/

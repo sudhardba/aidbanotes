@@ -1,5 +1,6 @@
 ---
 title: MongoDB Backup Compression Strategy
+parent: Backup
 layout: default
 category: Backup
 permalink: /mongodb/mongodb-backup-compression-strategy/

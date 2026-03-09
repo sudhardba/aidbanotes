@@ -1,5 +1,6 @@
 ---
 title: Database Disaster Recovery Testing
+parent: Operations
 layout: default
 category: General
 permalink: /others/database-disaster-recovery-testing/

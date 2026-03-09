@@ -1,5 +1,6 @@
 ---
 title: PostgreSQL Configuration Basics
+parent: Operations
 layout: default
 category: General
 permalink: /postgresql/postgresql-configuration-basics/

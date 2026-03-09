@@ -1,5 +1,6 @@
 ---
 title: MongoDB Write Concern Explained
+parent: Operations
 layout: default
 category: General
 permalink: /mongodb/mongodb-write-concern-explained/

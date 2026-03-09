@@ -1,5 +1,6 @@
 ---
 title: Cassandra Compaction Strategies Explained
+parent: Operations
 layout: default
 category: General
 permalink: /cassandra/cassandra-compaction-strategies-explained/

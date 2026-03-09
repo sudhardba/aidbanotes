@@ -1,5 +1,6 @@
 ---
 title: PostgreSQL High Availability Architecture
+parent: Architecture
 layout: default
 category: Architecture
 permalink: /postgresql/postgresql-high-availability-architecture/

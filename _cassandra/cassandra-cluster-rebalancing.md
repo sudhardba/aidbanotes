@@ -1,5 +1,6 @@
 ---
 title: Cassandra Cluster Rebalancing
+parent: Architecture
 layout: default
 category: Architecture
 permalink: /cassandra/cassandra-cluster-rebalancing/

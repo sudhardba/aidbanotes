@@ -1,5 +1,6 @@
 ---
 title: Redis Persistence Troubleshooting
+parent: Troubleshooting
 layout: default
 category: Troubleshooting
 permalink: /redis/redis-persistence-troubleshooting/

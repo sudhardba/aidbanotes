@@ -1,5 +1,6 @@
 ---
 title: Database Migration Planning Guide
+parent: Operations
 layout: default
 category: General
 permalink: /others/database-migration-planning-guide/

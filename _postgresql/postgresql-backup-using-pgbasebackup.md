@@ -1,5 +1,6 @@
 ---
 title: PostgreSQL Backup using pg_basebackup
+parent: Backup
 layout: default
 category: Backup
 permalink: /postgresql/postgresql-backup-using-pgbasebackup/

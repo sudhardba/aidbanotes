@@ -1,5 +1,6 @@
 ---
 title: Cassandra Cluster Capacity Planning
+parent: Architecture
 layout: default
 category: Architecture
 permalink: /cassandra/cassandra-cluster-capacity-planning/

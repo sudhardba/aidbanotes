@@ -1,5 +1,6 @@
 ---
 title: PostgreSQL Vacuum Best Practices
+parent: Operations
 layout: default
 category: General
 permalink: /postgresql/postgresql-vacuum-best-practices/

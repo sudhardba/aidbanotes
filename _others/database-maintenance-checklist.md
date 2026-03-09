@@ -1,5 +1,6 @@
 ---
 title: Database Maintenance Checklist
+parent: Operations
 layout: default
 category: General
 permalink: /others/database-maintenance-checklist/

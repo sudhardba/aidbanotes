@@ -1,5 +1,6 @@
 ---
 title: Redis Key Expiration Explained
+parent: Operations
 layout: default
 category: General
 permalink: /redis/redis-key-expiration-explained/

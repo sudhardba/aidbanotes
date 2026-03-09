@@ -1,5 +1,6 @@
 ---
 title: Database Storage Optimization
+parent: Operations
 layout: default
 category: General
 permalink: /others/database-storage-optimization/

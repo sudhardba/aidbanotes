@@ -1,5 +1,6 @@
 ---
 title: Redis Lua Scripting Basics
+parent: Operations
 layout: default
 category: General
 permalink: /redis/redis-lua-scripting-basics/

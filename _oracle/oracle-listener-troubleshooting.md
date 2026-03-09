@@ -1,14 +1,12 @@
 ---
 title: Oracle Listener Troubleshooting
-parent: Architecture
+parent: Troubleshooting
 nav_order: 1
----
-
-title: Oracle Listener Troubleshooting
 layout: default
 category: Troubleshooting
 permalink: /oracle/oracle-listener-troubleshooting/
 ---
+
 
 # Oracle Listener Troubleshooting
 

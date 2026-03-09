@@ -1,5 +1,6 @@
 ---
 title: Database Performance Troubleshooting Guide
+parent: Performance
 layout: default
 category: Performance
 permalink: /others/database-performance-troubleshooting-guide/

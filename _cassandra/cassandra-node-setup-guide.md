@@ -1,5 +1,6 @@
 ---
 title: Cassandra Node Setup Guide
+parent: Setup
 layout: default
 category: Setup
 permalink: /cassandra/cassandra-node-setup-guide/
