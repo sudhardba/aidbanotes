@@ -1,33 +1,26 @@
 # AIDBA Notes
 
-Database Administration & Monitoring Knowledge Base
+Database Administration & Monitoring Knowledge Base — built with MkDocs.
 
----
+## Quick Start
 
-## Start Here
+```bash
+pip install mkdocs mkdocs-material
+pip install ./plugins
+mkdocs serve
+```
 
-- [Home](./index.md)
-- [About](./about.md)
-- [How To Add Content](./HOW_TO_ADD_CONTENT.md)
+## Add a New Post
 
----
+Drop a `.md` file into `docs/<database>/` and push. GitHub Actions builds and deploys automatically.
 
-## Databases
+## Structure
 
-- [Oracle](./oracle/)
-- [PostgreSQL](postgresql/)
-- [MongoDB](mongodb/)
-- [Cassandra](cassandra/)
-- [Redis](redis/)
-- [Others](others/)
+```
+docs/<database>/<article>.md
+```
 
----
-
-## Monitoring
-
-- Grafana
-- Alerting
-- Metrics
+Supported: postgresql, oracle, cassandra, mongodb, redis, scylla, others
 
 ---
 
