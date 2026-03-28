@@ -35,13 +35,25 @@ class PostCountPlugin(BasePlugin):
         return os.path.basename(filepath).replace(".md", "").replace("-", " ").title()
 
     def on_pre_build(self, config, **kwargs):
-        """Auto-generate index.md in each database folder."""
+        """Auto-generate index.md in each database folder and build nav."""
         docs_dir = config["docs_dir"]
         folders = self._scan_folders(docs_dir)
 
+        # Display name mapping
+        display_names = {
+            "postgresql": "PostgreSQL",
+            "oracle": "Oracle",
+            "cassandra": "Cassandra",
+            "mongodb": "MongoDB",
+            "redis": "Redis",
+            "scylla": "ScyllaDB",
+            "others": "Others",
+        }
+
+        # Auto-generate index.md for each folder
         for folder, md_files in folders.items():
-            display = folder.replace("-", " ").title()
-            lines = [f"---", f"title: {display}", f"---", "", f"# {display}", ""]
+            display = display_names.get(folder, folder.replace("-", " ").title())
+            lines = ["---", f"title: {display}", "---", "", f"# {display}", ""]
 
             if md_files:
                 lines.append(f"**{len(md_files)}** articles available.")
@@ -57,6 +69,24 @@ class PostCountPlugin(BasePlugin):
             idx_path = os.path.join(docs_dir, folder, "index.md")
             with open(idx_path, "w") as f:
                 f.write("\n".join(lines))
+
+        # Auto-generate nav
+        nav = [{"Home": "index.md"}]
+
+        for folder, md_files in folders.items():
+            display = display_names.get(folder, folder.replace("-", " ").title())
+            section_items = [{display: f"{folder}/index.md"}]
+            for mf in md_files:
+                basename = os.path.basename(mf)
+                title = self._extract_title(mf)
+                section_items.append({title: f"{folder}/{basename}"})
+            nav.append({display: section_items})
+
+        # Add about page if it exists
+        if os.path.isfile(os.path.join(docs_dir, "about.md")):
+            nav.append({"About": "about.md"})
+
+        config["nav"] = nav
 
     def on_page_markdown(self, markdown, page, config, files, **kwargs):
         if "{{ db_counts }}" not in markdown:

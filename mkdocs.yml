@@ -23,18 +23,6 @@ plugins:
   - search
   - post_count
 
-nav:
-  - Home: index.md
-  - PostgreSQL: postgresql/index.md
-  - Oracle: oracle/index.md
-  - Cassandra: cassandra/index.md
-  - MongoDB: mongodb/index.md
-  - Redis: redis/index.md
-  - ScyllaDB: scylla/index.md
-  - Others: others/index.md
-  - Workflow Guide: workflow-guide.md
-  - About: about.md
-
 markdown_extensions:
   - toc:
       permalink: true
